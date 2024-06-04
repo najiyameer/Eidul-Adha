@@ -89,7 +89,7 @@
     <div class="container">
         <div class="content">
             <header class="logo">
-                <img src="C:\Users\DELL\Logo1.png.jpg" alt="Logo">
+                <img src="C:\Users\DELL\Logo1.png.jpg](https://raw.githubusercontent.com/najiyameer/logo/1d6cff8d9d6f101efcb1134d19592a0cf3bcca94/Logo1.png.jpg" alt="Logo">
             </header>
 
             <form name="Invoice">
